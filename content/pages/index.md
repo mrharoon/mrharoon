@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     title: I’m a Certified Network and system Specialist.
     subtitle: >-
-      Working in the Information Technology field, I have 13 years of work
+      Working in the Information Technology field, I have 10 years of work
       experience with good technical and administration skills, possess
       leadership qualities and a team builder with vast experience in IT
       Security Systems, Security operations and threat hunting and incident
