@@ -15,9 +15,19 @@ sections:
     backgroundSize: full
     title: I’m a Certified Network and system Specialist.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Working in the Information Technology field, I have 13 years of work
+      experience with good technical and administration skills, possess
+      leadership qualities and a team builder with vast experience in IT
+      Security Systems, Security operations and threat hunting and incident
+      management skills. Expert in large scale network & security infrastructure
+      design, implementation, integration and administration. Experienced in
+      NGFWs implementations and advanced traffic inspection, threat prevention
+      and security control configurations with Palo Alto, Force Point, ASAs, Web
+      Proxy and ESA. Experience on McAfee Endpoint Security Solutions like ePO,
+      DLP, Drive Encryption. Trend Micro Apex products, DDA, EDR. (with 1600+
+      endpoints). Good in layer 2 and layer 3 technologies, VPNs and IOS/XE,
+      NX-OS, 3Com HP Switches & Routers. Good understanding and implementation
+      knowledge of Security Standards i.e. NIST, ISO, ECC/NCA.
     styles:
       self:
         height: auto
