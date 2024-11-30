@@ -107,7 +107,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "",
+            "phoneNumber": "+966539167936",
             "phoneAltText": "My phone number",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
